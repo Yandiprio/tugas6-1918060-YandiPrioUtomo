@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas6_1918060</string>
+    <string-array name="city_list">
+        <item>Mataram</item>
+        <item>Bima</item>
+        <item>Jogja</item>
+        <item>Malang</item>
+        <item>Jakarta</item>
+    </string-array>
+
+</resources>
+
